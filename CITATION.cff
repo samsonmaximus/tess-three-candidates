@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper."
+title: "Three small transiting planet candidates from TESS around TOI-678, GJ 237 and TOI-5997"
+authors:
+  - family-names: Fraser
+    given-names: Samson
+    affiliation: "Independent researcher, Sicamous, British Columbia, Canada"
+date-released: 2026-10-08
+version: "1.0"
+license: CC-BY-4.0
+repository-code: "https://github.com/samsonmaximus/tess-three-candidates"
+keywords:
+  - exoplanets
+  - transiting planets
+  - TESS
+  - planet candidates
+preferred-citation:
+  type: article
+  title: "Three small transiting planet candidates from TESS around TOI-678, GJ 237 and TOI-5997"
+  authors:
+    - family-names: Fraser
+      given-names: Samson
+  year: 2026
+  notes: "Preprint"
