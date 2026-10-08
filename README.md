@@ -1,4 +1,6 @@
-# Three small transiting planet candidates from TESS around TOI-678, GJ 237 and TOI-5997
+# Three new small transiting planet candidates from TESS around TOI-678, GJ 237 and TOI-5997
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23249265.svg)](https://doi.org/10.5281/zenodo.23249265)
 
 **Samson Fraser** · Independent researcher, Sicamous, British Columbia, Canada · preprint, October 2026
 
@@ -62,7 +64,7 @@ The analysis code, the literature checks and the draft text were prepared with t
 
 ## Citation
 
-Fraser, S. (2026), *Three small transiting planet candidates from TESS around TOI-678, GJ 237 and TOI-5997*, preprint. See [`CITATION.cff`](CITATION.cff). Please cite the Zenodo DOI or arXiv ID once available.
+Fraser, S. (2026), *Three new small transiting planet candidates from TESS around TOI-678, GJ 237 and TOI-5997*, preprint. See [`CITATION.cff`](CITATION.cff). Please cite the Zenodo DOI or arXiv ID once available.
 
 ## License
 
